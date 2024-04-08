@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MecWise.HR.TestingWFApplication.Client", "MecWise.HR.TestingWFApplication.Client\MecWise.HR.TestingWFApplication.Client.csproj", "{F1EFF9CF-C4C6-4AD0-91B0-7ACCDC1E2B4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MecWise.HR.TestingWFApplication.Server", "MecWise.HR.TestingWFApplication.Server\MecWise.HR.TestingWFApplication.Server.csproj", "{62636082-7988-407B-9361-B7D7BACD83B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1EFF9CF-C4C6-4AD0-91B0-7ACCDC1E2B4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1EFF9CF-C4C6-4AD0-91B0-7ACCDC1E2B4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1EFF9CF-C4C6-4AD0-91B0-7ACCDC1E2B4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1EFF9CF-C4C6-4AD0-91B0-7ACCDC1E2B4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62636082-7988-407B-9361-B7D7BACD83B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62636082-7988-407B-9361-B7D7BACD83B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62636082-7988-407B-9361-B7D7BACD83B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62636082-7988-407B-9361-B7D7BACD83B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {529F1081-0C6C-4AC2-8E6F-E84C2ADB14D7}
+	EndGlobalSection
+EndGlobal
